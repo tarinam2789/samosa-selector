@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #fff9f0;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+.game-container {
+  margin-top: 40px;
+}
+
+#big-samosa {
+  width: 200px;
+  cursor: pointer;
+  transition: transform 0.1s ease;
+}
+
+#big-samosa.pop {
+  transform: scale(1.2);
+}
+
+#counter {
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+.upgrades button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
