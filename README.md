@@ -4,7 +4,7 @@ Submitted by: **Tarina Muna**
 
 This web app: **Samosa Selector is a fun incremental clicker game. Players click on a giant samosa to earn samosas, and unlock powerful upgrades to multiply their click value. The goal? Collect as many samosas as possible!**
 
-Time spent: **1.5** hours spent in total
+Time spent: **1 hr 34 min** hours spent in total
 
 ## Required Features
 
